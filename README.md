@@ -70,7 +70,7 @@ distro-doctor/
 Clone the repository and install it globally in editable mode via `pip`:
 
 ```bash
-git clone [https://github.com/Braveen811/distro-doctor.git](https://github.com/Braveen811/distro-doctor.git)
+git clone [https://github.com/braveen-r/distro-doctor.git](https://github.com/braveen-r/distro-doctor.git)
 cd distro-doctor
 pip install -e .
 
